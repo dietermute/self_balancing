@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Making a Two-Wheeled Self-Balancing Robot"
 permalink: /project
 ---
