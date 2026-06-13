@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Making a Two-Wheeled Self-Balancing Robot"
-permalink: /project
+permalink: /
 ---
 This post is intended to be both a guide and process log on creating a two-wheeled self-balancing robot. It will go over the principles that go into making such a robot, and showcase my thought process and successes/failures during my own implementation. If you've come across this looking to make your own robot, I hope you can learn from what I've done right and (perhaps more importantly) what I've done wrong.
 
