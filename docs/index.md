@@ -6,6 +6,7 @@ permalink: /
 This post is intended to be both a guide and process log on creating a two-wheeled self-balancing robot. It will go over the principles that go into making such a robot, and showcase my thought process and successes/failures during my own implementation. If you've come across this looking to make your own robot, I hope you can learn from what I've done right and (perhaps more importantly) what I've done wrong.
 
 # Demo Video
+
 <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1200325665?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Two-Wheeled Self-Balancing Robot Demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 # Robot Overview
