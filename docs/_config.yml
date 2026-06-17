@@ -21,9 +21,9 @@
 title: Making a Two-Wheeled Self-Balancing Robot
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Project site to showcase the process of making a two-wheeled self-balancing robot.
+  A walkthrough (or wobblethrough) of my process and thoughts.
 baseurl: "/self_balancing" # the subpath of your site, e.g. /blog
-url: "https://dietermute.github.io/self_balancing" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dietermute.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  ""
 
